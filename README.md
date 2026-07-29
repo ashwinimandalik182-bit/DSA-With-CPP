@@ -90,6 +90,10 @@ DSA-With-CPP/
 
 ### 🌱 Learning One Step at a Time
 
-Every program in this repository represents a step forward in my DSA journey. Consistency matters more than speed, and I'm committed to improving my coding and problem-solving skills every day.
+Every expert was once a beginner. Consistency matters more than speed, and I'm committed to improving my coding and problem-solving skills every day.
 
-If you find this repository helpful, feel free to ⭐ star it!
+I'm enjoying the process of learning, making mistakes, and improving every day. Happy Coding! 😊
+
+---
+
+
