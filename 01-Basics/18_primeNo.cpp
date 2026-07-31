@@ -1,9 +1,9 @@
 #include<iostream>
 using namespace std;
 int main(){
-    float i,n;
+    int i,n;
     cout<<"enter No:";
-    cin>>(float)n;
+    cin>>n;
     for( i=2;i<n;i++){
         if(n%i==0){
             cout<<"Not Prime";
