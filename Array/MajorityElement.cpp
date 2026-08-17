@@ -1,44 +1,30 @@
-#include<iostream>
-#include<vector>
-#include<algorithm>
+#include <iostream>
+#include <vector>
 using namespace std;
 
 int majorityElement(vector<int>& nums) {
+    int candidate = 0;
+    int count = 0;
 
-    int n = nums.size();
-
-    sort(nums.begin(), nums.end());
-
-    int freq = 1;
-    int ans = nums[0];
-
-    if(n == 1) {
-        return nums[0];
-    }
-
-    for(int i = 1; i < n; i++) {
-
-        if(nums[i] == nums[i - 1]) {
-            freq++;
-        }
-        else {
-            freq = 1;
-            ans = nums[i];
+    for (int num : nums) {
+        if (count == 0) {
+            candidate = num;
         }
 
-        if(freq > n / 2) {
-            return ans;
+        if (num == candidate) {
+            count++;
+        } else {
+            count--;
         }
     }
 
-    return ans;
+    return candidate;
 }
 
 int main() {
-
     vector<int> nums = {2, 2, 1, 1, 1, 2, 2};
 
-    cout <<"Majority Elements is :"<< majorityElement(nums);
+    cout << "Majority Element: " << majorityElement(nums);
 
     return 0;
 }

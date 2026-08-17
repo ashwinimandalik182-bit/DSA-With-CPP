@@ -1,99 +1,11 @@
-# 🚀 DSA With C++
+DSA With C++
 
-Welcome to my **DSA With C++** repository!
+I created this repository to document my DSA learning journey using C++.
 
-This repository documents my journey of learning **Data Structures and Algorithms (DSA)** using **C++**. I am solving problems topic by topic, starting with the fundamentals and gradually moving toward advanced concepts.
+The purpose of this repository is to practice coding regularly, improve my problem-solving skills, and build a better understanding of DSA concepts through practice.
 
-## 📂 Repository Structure
+I will keep my code and solutions here so I can easily revise what I have learned and see my improvement over time.
 
-```
-DSA-With-CPP/
-│
-├── 01-Basics/
-│   ├── Variables & Data Types
-│   ├── Operators
-│   ├── Conditional Statements
-│   ├── Loops
-│   ├── Functions
-│   ├── Pattern Programs
-│   ├── Prime Numbers
-│   ├── Perfect Numbers
-│   └── More Basic Programs
-│
-├── 02-Array/
-│   ├── Array Basics
-│   ├── Linear Search
-│   ├── Smallest & Largest Element
-│   └── More Array Problems
-│
-└── README.md
-```
+My intention is to stay consistent, learn from my mistakes, and improve my coding skills step by step.
 
-## 📚 Topics Covered
-
-### ✅ C++ Basics
-- Variables & Data Types
-- Input / Output
-- Operators
-- Conditional Statements
-- Loops
-- Functions
-- Number Programs
-- Pattern Problems
-
-### ✅ Arrays
-- Array Basics
-- Linear Search
-- Smallest & Largest Element
-- Array Traversal
-- More Problems (Coming Soon)
-
-## 🎯 Goal
-
-- Build a strong foundation in C++
-- Master Data Structures & Algorithms
-- Improve problem-solving skills
-- Prepare for coding interviews
-
-## 🛠️ Language
-
-- C++
-
-## 📌 Future Topics
-
-- Strings
-- Sorting Algorithms
-- Binary Search
-- Recursion
-- Pointers
-- Linked List
-- Stack
-- Queue
-- Trees
-- Graphs
-- Dynamic Programming
-
-## ⭐ Progress
-
-- ✅ C++ Basics
-- ✅ Arrays (In Progress)
-- ⏳ Strings
-- ⏳ Recursion
-- ⏳ Searching & Sorting
-- ⏳ Linked List
-- ⏳ Stack & Queue
-- ⏳ Trees
-- ⏳ Graphs
-- ⏳ Dynamic Programming
-
----
-
-### 🌱 Learning One Step at a Time
-
-Every expert was once a beginner. Consistency matters more than speed, and I'm committed to improving my coding and problem-solving skills every day.
-
-I'm enjoying the process of learning, making mistakes, and improving every day. Happy Coding! 😊
-
----
-
-
+Learn. Practice. Improve.
